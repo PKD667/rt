@@ -1,0 +1,30 @@
+[
+    {
+      "center": { "x": 50, "y": 50, "z": 10 },
+      "radius": 10,
+      "material" : {
+        "gloss" : 0.5,
+        "color" : "0x00FF0000",
+        "light_source" : false
+      }
+    },
+    {
+      "center": { "x": 100, "y": 100, "z":  100},
+      "radius": 50,
+      "material" : {
+        "gloss" : 0.5,
+        "color" : "0x0000FF00",
+        "light_source" : false
+      }
+    },
+    {
+      "center": { "x": 100, "y": -100, "z": 100 },
+      "radius": 100,
+      "material" : {
+        "gloss" : 0.5,
+        "color" : "0xFFFFFFFF",
+        "light_source" : true
+      }
+    }
+]
+  
